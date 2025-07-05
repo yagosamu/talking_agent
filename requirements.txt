@@ -1,0 +1,27 @@
+langchain
+
+langchain-experimental
+
+langchain-openai
+
+numpy
+
+pandas
+
+pynput
+
+python-dotenv
+
+sounddevice
+
+soundfile
+
+tabulate
+
+playsound==1.2.2
+
+openai
+
+whisper
+#git+https://github.com/openai/whisper.git
+#pip install git+https://github.com/openai/whisper.git
